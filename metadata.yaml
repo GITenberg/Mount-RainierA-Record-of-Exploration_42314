@@ -1,0 +1,45 @@
+_repo: Mount-RainierA-Record-of-Exploration_42314
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42314-h/images/cover-page.jpg
+creator:
+  editor:
+    agent_name: Meany, Edmond S. (Edmond Stephen)
+    alias: Meany, Edmond Stephen
+    birthdate: 1862
+    deathdate: 1935
+    gutenberg_agent_id: '41628'
+    url: http://www.gutenberg.org/2009/agents/41628
+description: ''
+gutenberg_issued: '2013-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42314'
+  lccn: '16023519'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rainier, Mount (Wash.)'
+- !lcsh 'Plants -- Washington (State) -- Rainier, Mount'
+- !lcc 'F850.5'
+- !lcsh 'Mount Rainier National Park (Wash.)'
+- !lcsh 'Glaciers -- Washington (State) -- Rainier, Mount'
+tableOfContents: The mountain discovered and named, 1792, by G. Vancouver -- First
+  approach to the mountain, 1833, by W. F. Tolmie -- First recorded trip through Naches
+  pass, 1841, by R. E. Johnson -- Tacoma and the Indian legend of Hamitchou, by T.
+  Winthrop -- First attempted ascent, 1857, by A. V. Kautz -- First successful ascent,
+  1870, by H. Stevens -- Indian warning against demons, by Sluiskin, Indian guide
+  -- Second successful ascent, 1870, by S. F. Emmons -- Explorations of the northern
+  slopes, 1881-1883, by B. Willis -- Discovery of Camp Muir, 1888, by E. S. Ingraham
+  -- Exploring the mountain and its glaciers, 1896, by I. C. Russell -- McClure's
+  achievement and tragic death, 1897, by H. L. Bruce and H. H. McAlister -- Field
+  notes on Mount Rainier, 1905, by H. Landes -- Glaciers of Mount Rainier, by F. E.
+  Matthes -- The rocks of Mount Rainier, by G. O. Smith -- The flora of Mount Rainier,
+  by C. V. Piper -- Creation of Mount Rainier National Park, memorial by scientific
+  societies -- Mount Rainier is 14,408 feet high, by the United States Geological
+  survey -- Place names and elevations in Mount Rainier National Park.
+title: Mount Rainier, a Record of Exploration
+url: http://www.gutenberg.org/ebooks/42314
